@@ -1,0 +1,7 @@
+{
+    "manifest_version": 3,
+    "name": "Key word Hightlighter",
+    "version": "0.1",
+    "description": "Highlight keywords on the current page"
+        
+}
